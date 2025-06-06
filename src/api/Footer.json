@@ -1,0 +1,23 @@
+[
+    {
+       "icon":"MdPlace",
+       "title": "Find us",
+       "details":"hydarabad, Telangana"
+
+
+    },
+    {
+       
+        "icon":"IoCallSharp",
+        "title": "Call us",
+        "details":"7204593889"
+  
+    },
+    {
+       
+        "icon":"TbMail",
+        "title": "Mail us",
+        "details":"bkreddy889@gmail.com"
+  
+    }
+]

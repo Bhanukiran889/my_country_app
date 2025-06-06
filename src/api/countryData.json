@@ -1,0 +1,1546 @@
+[
+    {
+        "id": 1,
+        "countryName": "Afghanistan",
+        "capital": "Kabul",
+        "population": 39835428,
+        "interestingFact": "Afghanistan is known for its rich history of cultural diversity.",
+        "nativeLanguage": "Pashto, Dari"
+    },
+    {
+        "id": 2,
+        "countryName": "Albania",
+        "capital": "Tirana",
+        "population": 2877797,
+        "interestingFact": "Albania has a unique alphabet with 36 letters.",
+        "nativeLanguage": "Albanian"
+    },
+    {
+        "id": 3,
+        "countryName": "Algeria",
+        "capital": "Algiers",
+        "population": 43851044,
+        "interestingFact": "Algeria is the largest country in Africa.",
+        "nativeLanguage": "Arabic, Berber"
+    },
+    {
+        "id": 4,
+        "countryName": "Andorra",
+        "capital": "Andorra la Vella",
+        "population": 77265,
+        "interestingFact": "Andorra is the largest and only co-principality in the world.",
+        "nativeLanguage": "Catalan"
+    },
+    {
+        "id": 5,
+        "countryName": "Angola",
+        "capital": "Luanda",
+        "population": 32866272,
+        "interestingFact": "Angola is known for its rich natural resources, including oil and diamonds.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 6,
+        "countryName": "Argentina",
+        "capital": "Buenos Aires",
+        "population": 45195777,
+        "interestingFact": "Argentina is famous for tango, a dance that originated in Buenos Aires.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 7,
+        "countryName": "Armenia",
+        "capital": "Yerevan",
+        "population": 2963243,
+        "interestingFact": "Armenia was the first nation to adopt Christianity as a state religion.",
+        "nativeLanguage": "Armenian"
+    },
+    {
+        "id": 8,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": 25499884,
+        "interestingFact": "Australia is home to the world's longest fence, the Dingo Fence.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 9,
+        "countryName": "Austria",
+        "capital": "Vienna",
+        "population": 8917205,
+        "interestingFact": "Austria is known for its cultural events, especially music and art.",
+        "nativeLanguage": "German"
+    },
+    {
+        "id": 10,
+        "countryName": "Azerbaijan",
+        "capital": "Baku",
+        "population": 10139177,
+        "interestingFact": "Azerbaijan is known as the Land of Fire due to its natural gas flames.",
+        "nativeLanguage": "Azerbaijani"
+    },
+    {
+        "id": 11,
+        "countryName": "Bahamas",
+        "capital": "Nassau",
+        "population": 393248,
+        "interestingFact": "The Bahamas is made up of over 700 islands.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 12,
+        "countryName": "Bahrain",
+        "capital": "Manama",
+        "population": 1701575,
+        "interestingFact": "Bahrain is known for its oil production and pearl diving.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 13,
+        "countryName": "Bangladesh",
+        "capital": "Dhaka",
+        "population": 166303498,
+        "interestingFact": "Bangladesh is one of the most densely populated countries in the world.",
+        "nativeLanguage": "Bengali"
+    },
+    {
+        "id": 14,
+        "countryName": "Barbados",
+        "capital": "Bridgetown",
+        "population": 287375,
+        "interestingFact": "Barbados is known for its rum and beautiful beaches.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 15,
+        "countryName": "Belarus",
+        "capital": "Minsk",
+        "population": 9449323,
+        "interestingFact": "Belarus is known for its beautiful nature and rich history.",
+        "nativeLanguage": "Belarusian, Russian"
+    },
+    {
+        "id": 16,
+        "countryName": "Belgium",
+        "capital": "Brussels",
+        "population": 11589623,
+        "interestingFact": "Belgium is famous for its chocolate and waffles.",
+        "nativeLanguage": "Dutch, French, German"
+    },
+    {
+        "id": 17,
+        "countryName": "Belize",
+        "capital": "Belmopan",
+        "population": 397621,
+        "interestingFact": "Belize is known for its diverse ecosystems and the Great Blue Hole.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 18,
+        "countryName": "Benin",
+        "capital": "Porto-Novo",
+        "population": 12123200,
+        "interestingFact": "Benin is known as the birthplace of voodoo.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 19,
+        "countryName": "Bhutan",
+        "capital": "Thimphu",
+        "population": 771608,
+        "interestingFact": "Bhutan is known for its philosophy of Gross National Happiness.",
+        "nativeLanguage": "Dzongkha"
+    },
+    {
+        "id": 20,
+        "countryName": "Bolivia",
+        "capital": "Sucre",
+        "population": 11673021,
+        "interestingFact": "Bolivia is home to the world's highest capital city, La Paz.",
+        "nativeLanguage": "Spanish, Quechua, Aymara"
+    },
+    {
+        "id": 21,
+        "countryName": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "population": 3280819,
+        "interestingFact": "Bosnia and Herzegovina is known for its Ottoman influences.",
+        "nativeLanguage": "Bosnian, Croatian, Serbian"
+    },
+    {
+        "id": 22,
+        "countryName": "Botswana",
+        "capital": "Gaborone",
+        "population": 2141206,
+        "interestingFact": "Botswana is home to the Okavango Delta, a UNESCO World Heritage site.",
+        "nativeLanguage": "English, Tswana"
+    },
+    {
+        "id": 23,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": 212559417,
+        "interestingFact": "Brazil is the largest coffee producer in the world.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 24,
+        "countryName": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "population": 453565,
+        "interestingFact": "Brunei is known for its wealth and is one of the few remaining absolute monarchies.",
+        "nativeLanguage": "Malay"
+    },
+    {
+        "id": 25,
+        "countryName": "Bulgaria",
+        "capital": "Sofia",
+        "population": 6948445,
+        "interestingFact": "Bulgaria is one of the oldest countries in Europe.",
+        "nativeLanguage": "Bulgarian"
+    },
+    {
+        "id": 26,
+        "countryName": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "population": 20511667,
+        "interestingFact": "Burkina Faso is known for its music and cultural festivals.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 27,
+        "countryName": "Burundi",
+        "capital": "Gitega",
+        "population": 11890784,
+        "interestingFact": "Burundi is one of the smallest countries in Africa.",
+        "nativeLanguage": "Kirundi, French, English"
+    },
+    {
+        "id": 28,
+        "countryName": "Cabo Verde",
+        "capital": "Praia",
+        "population": 549935,
+        "interestingFact": "Cabo Verde is known for its beautiful islands and music.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 29,
+        "countryName": "Cambodia",
+        "capital": "Phnom Penh",
+        "population": 16718965,
+        "interestingFact": "Cambodia is home to the famous Angkor Wat temple.",
+        "nativeLanguage": "Khmer"
+    },
+    {
+        "id": 30,
+        "countryName": "Cameroon",
+        "capital": "Yaoundé",
+        "population": 22709892,
+        "interestingFact": "Cameroon is known as 'Africa in miniature' due to its diverse geography.",
+        "nativeLanguage": "French, English"
+    },
+    {
+        "id": 31,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": 37742154,
+        "interestingFact": "Canada has the longest coastline of any country in the world.",
+        "nativeLanguage": "English, French"
+    },
+    {
+        "id": 32,
+        "countryName": "Central African Republic",
+        "capital": "Bangui",
+        "population": 5496064,
+        "interestingFact": "The Central African Republic is rich in natural resources.",
+        "nativeLanguage": "Sango, French"
+    },
+    {
+        "id": 33,
+        "countryName": "Chad",
+        "capital": "N'Djamena",
+        "population": 14497000,
+        "interestingFact": "Chad has some of the largest wildlife reserves in Africa.",
+        "nativeLanguage": "French, Arabic"
+    },
+    {
+        "id": 34,
+        "countryName": "Chile",
+        "capital": "Santiago",
+        "population": 19116201,
+        "interestingFact": "Chile has the world's longest coastline.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 35,
+        "countryName": "China",
+        "capital": "Beijing",
+        "population": 1439323776,
+        "interestingFact": "China is home to the Great Wall, one of the Seven Wonders of the World.",
+        "nativeLanguage": "Mandarin"
+    },
+    {
+        "id": 36,
+        "countryName": "Colombia",
+        "capital": "Bogotá",
+        "population": 50882891,
+        "interestingFact": "Colombia is known for its coffee and beautiful landscapes.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 37,
+        "countryName": "Comoros",
+        "capital": "Moroni",
+        "population": 806153,
+        "interestingFact": "Comoros is known for its unique culture and biodiversity.",
+        "nativeLanguage": "Comorian, Arabic, French"
+    },
+    {
+        "id": 38,
+        "countryName": "Congo, Democratic Republic of the",
+        "capital": "Kinshasa",
+        "population": 89561403,
+        "interestingFact": "The DRC is home to the second-largest rainforest in the world.",
+        "nativeLanguage": "French, Lingala, Kikongo, Swahili"
+    },
+    {
+        "id": 39,
+        "countryName": "Congo, Republic of the",
+        "capital": "Brazzaville",
+        "population": 5506584,
+        "interestingFact": "The Republic of the Congo is known for its wildlife and rainforests.",
+        "nativeLanguage": "French, Lingala"
+    },
+    {
+        "id": 40,
+        "countryName": "Costa Rica",
+        "capital": "San José",
+        "population": 5094118,
+        "interestingFact": "Costa Rica is known for its biodiversity and eco-tourism.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 41,
+        "countryName": "Croatia",
+        "capital": "Zagreb",
+        "population": 4105267,
+        "interestingFact": "Croatia is known for its stunning coastline along the Adriatic Sea.",
+        "nativeLanguage": "Croatian"
+    },
+    {
+        "id": 42,
+        "countryName": "Cuba",
+        "capital": "Havana",
+        "population": 11326616,
+        "interestingFact": "Cuba is famous for its classic cars and cigars.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 43,
+        "countryName": "Cyprus",
+        "capital": "Nicosia",
+        "population": 1207359,
+        "interestingFact": "Cyprus is known for its rich history and beautiful beaches.",
+        "nativeLanguage": "Greek, Turkish"
+    },
+    {
+        "id": 44,
+        "countryName": "Czech Republic",
+        "capital": "Prague",
+        "population": 10708981,
+        "interestingFact": "Prague is known for its historic architecture and vibrant culture.",
+        "nativeLanguage": "Czech"
+    },
+    {
+        "id": 45,
+        "countryName": "Denmark",
+        "capital": "Copenhagen",
+        "population": 5818553,
+        "interestingFact": "Denmark is known for its high quality of life and happiness.",
+        "nativeLanguage": "Danish"
+    },
+    {
+        "id": 46,
+        "countryName": "Djibouti",
+        "capital": "Djibouti",
+        "population": 883560,
+        "interestingFact": "Djibouti is strategically located near some of the world's busiest shipping lanes.",
+        "nativeLanguage": "French, Arabic"
+    },
+    {
+        "id": 47,
+        "countryName": "Dominica",
+        "capital": "Roseau",
+        "population": 71986,
+        "interestingFact": "Dominica is known as the 'Nature Island' for its lush vegetation.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 48,
+        "countryName": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "population": 10847904,
+        "interestingFact": "The Dominican Republic is known for its beautiful beaches and rich history.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 49,
+        "countryName": "Ecuador",
+        "capital": "Quito",
+        "population": 17643054,
+        "interestingFact": "Ecuador is home to the Galápagos Islands and diverse wildlife.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 50,
+        "countryName": "Egypt",
+        "capital": "Cairo",
+        "population": 102334155,
+        "interestingFact": "Egypt is known for its ancient civilization and the Pyramids of Giza.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 51,
+        "countryName": "El Salvador",
+        "capital": "San Salvador",
+        "population": 6486201,
+        "interestingFact": "El Salvador is known for its beautiful beaches and surfing spots.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 52,
+        "countryName": "Equatorial Guinea",
+        "capital": "Malabo",
+        "population": 1402985,
+        "interestingFact": "Equatorial Guinea is one of the few African countries with Spanish as an official language.",
+        "nativeLanguage": "Spanish, French, Portuguese"
+    },
+    {
+        "id": 53,
+        "countryName": "Eritrea",
+        "capital": "Asmara",
+        "population": 3546000,
+        "interestingFact": "Eritrea has nine official languages.",
+        "nativeLanguage": "Tigrinya, Arabic, English"
+    },
+    {
+        "id": 54,
+        "countryName": "Estonia",
+        "capital": "Tallinn",
+        "population": 1326535,
+        "interestingFact": "Estonia is known for its advanced digital society.",
+        "nativeLanguage": "Estonian"
+    },
+    {
+        "id": 55,
+        "countryName": "Eswatini",
+        "capital": "Mbabane",
+        "population": 1160164,
+        "interestingFact": "Eswatini is the last absolute monarchy in Africa.",
+        "nativeLanguage": "Swazi, English"
+    },
+    {
+        "id": 56,
+        "countryName": "Ethiopia",
+        "capital": "Addis Ababa",
+        "population": 11411498,
+        "interestingFact": "Ethiopia is the only African country that was never colonized.",
+        "nativeLanguage": "Amharic"
+    },
+    {
+        "id": 57,
+        "countryName": "Fiji",
+        "capital": "Suva",
+        "population": 896444,
+        "interestingFact": "Fiji is known for its stunning coral reefs and beautiful beaches.",
+        "nativeLanguage": "Fijian, Hindi, English"
+    },
+    {
+        "id": 58,
+        "countryName": "Finland",
+        "capital": "Helsinki",
+        "population": 5540720,
+        "interestingFact": "Finland is known for its high education standards and natural beauty.",
+        "nativeLanguage": "Finnish, Swedish"
+    },
+    {
+        "id": 59,
+        "countryName": "France",
+        "capital": "Paris",
+        "population": 67407241,
+        "interestingFact": "France is famous for its art, fashion, and cuisine.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 60,
+        "countryName": "Gabon",
+        "capital": "Libreville",
+        "population": 2225734,
+        "interestingFact": "Gabon is known for its rich biodiversity and national parks.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 61,
+        "countryName": "Gambia",
+        "capital": "Banjul",
+        "population": 2416661,
+        "interestingFact": "Gambia is the smallest country in mainland Africa.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 62,
+        "countryName": "Georgia",
+        "capital": "Tbilisi",
+        "population": 3989167,
+        "interestingFact": "Georgia is famous for its diverse landscapes and ancient history.",
+        "nativeLanguage": "Georgian"
+    },
+    {
+        "id": 63,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "population": 83783942,
+        "interestingFact": "Germany is known for its beer and Oktoberfest celebration.",
+        "nativeLanguage": "German"
+    },
+    {
+        "id": 64,
+        "countryName": "Ghana",
+        "capital": "Accra",
+        "population": 31072940,
+        "interestingFact": "Ghana was the first African country to gain independence from colonial rule.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 65,
+        "countryName": "Greece",
+        "capital": "Athens",
+        "population": 10423054,
+        "interestingFact": "Greece is known as the cradle of Western civilization.",
+        "nativeLanguage": "Greek"
+    },
+    {
+        "id": 66,
+        "countryName": "Grenada",
+        "capital": "St. George's",
+        "population": 112519,
+        "interestingFact": "Grenada is known as the 'Spice Isle' for its nutmeg production.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 67,
+        "countryName": "Guatemala",
+        "capital": "Guatemala City",
+        "population": 17915568,
+        "interestingFact": "Guatemala is home to ancient Mayan ruins.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 68,
+        "countryName": "Guinea",
+        "capital": "Conakry",
+        "population": 13132795,
+        "interestingFact": "Guinea is rich in natural resources, especially bauxite.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 69,
+        "countryName": "Guinea-Bissau",
+        "capital": "Bissau",
+        "population": 1968001,
+        "interestingFact": "Guinea-Bissau is known for its rich biodiversity and wildlife.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 70,
+        "countryName": "Guyana",
+        "capital": "Georgetown",
+        "population": 786559,
+        "interestingFact": "Guyana is known for its diverse cultures and natural beauty.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 71,
+        "countryName": "Haiti",
+        "capital": "Port-au-Prince",
+        "population": 11402528,
+        "interestingFact": "Haiti was the first country to gain independence in Latin America.",
+        "nativeLanguage": "Haitian Creole, French"
+    },
+    {
+        "id": 72,
+        "countryName": "Honduras",
+        "capital": "Tegucigalpa",
+        "population": 9904608,
+        "interestingFact": "Honduras is known for its Mayan ruins and rich history.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 73,
+        "countryName": "Hungary",
+        "capital": "Budapest",
+        "population": 9660351,
+        "interestingFact": "Hungary is famous for its thermal baths and stunning architecture.",
+        "nativeLanguage": "Hungarian"
+    },
+    {
+        "id": 74,
+        "countryName": "Iceland",
+        "capital": "Reykjavik",
+        "population": 343599,
+        "interestingFact": "Iceland is known for its volcanic activity and stunning landscapes.",
+        "nativeLanguage": "Icelandic"
+    },
+    {
+        "id": 75,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "interestingFact": "India is known for its diverse culture and languages.",
+        "nativeLanguage": "Hindi, English"
+    },
+    {
+        "id": 76,
+        "countryName": "Indonesia",
+        "capital": "Jakarta",
+        "population": 273523615,
+        "interestingFact": "Indonesia is the largest archipelago in the world.",
+        "nativeLanguage": "Indonesian"
+    },
+    {
+        "id": 77,
+        "countryName": "Iran",
+        "capital": "Tehran",
+        "population": 83992949,
+        "interestingFact": "Iran is known for its rich history and cultural heritage.",
+        "nativeLanguage": "Persian"
+    },
+    {
+        "id": 78,
+        "countryName": "Iraq",
+        "capital": "Baghdad",
+        "population": 40222493,
+        "interestingFact": "Iraq is home to some of the world's earliest civilizations.",
+        "nativeLanguage": "Arabic, Kurdish"
+    },
+    {
+        "id": 79,
+        "countryName": "Ireland",
+        "capital": "Dublin",
+        "population": 4937786,
+        "interestingFact": "Ireland is known for its lush landscapes and rich folklore.",
+        "nativeLanguage": "Irish, English"
+    },
+    {
+        "id": 80,
+        "countryName": "Israel",
+        "capital": "Jerusalem",
+        "population": 8655535,
+        "interestingFact": "Israel is known for its historical and religious significance.",
+        "nativeLanguage": "Hebrew, Arabic"
+    },
+    {
+        "id": 81,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "population": 60244639,
+        "interestingFact": "Italy is famous for its art, history, and cuisine.",
+        "nativeLanguage": "Italian"
+    },
+    {
+        "id": 82,
+        "countryName": "Jamaica",
+        "capital": "Kingston",
+        "population": 2961161,
+        "interestingFact": "Jamaica is known for reggae music and beautiful beaches.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 83,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": 126476461,
+        "interestingFact": "Japan is known for its technology and traditional culture.",
+        "nativeLanguage": "Japanese"
+    },
+    {
+        "id": 84,
+        "countryName": "Jordan",
+        "capital": "Amman",
+        "population": 10203134,
+        "interestingFact": "Jordan is home to the ancient city of Petra.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 85,
+        "countryName": "Kazakhstan",
+        "capital": "Nur-Sultan",
+        "population": 18776707,
+        "interestingFact": "Kazakhstan is the largest landlocked country in the world.",
+        "nativeLanguage": "Kazakh, Russian"
+    },
+    {
+        "id": 86,
+        "countryName": "Kenya",
+        "capital": "Nairobi",
+        "population": 53771296,
+        "interestingFact": "Kenya is known for its wildlife and national parks.",
+        "nativeLanguage": "Swahili, English"
+    },
+    {
+        "id": 87,
+        "countryName": "Kiribati",
+        "capital": "South Tarawa",
+        "population": 119446,
+        "interestingFact": "Kiribati is made up of 33 islands.",
+        "nativeLanguage": "Gilbertese"
+    },
+    {
+        "id": 88,
+        "countryName": "Kuwait",
+        "capital": "Kuwait City",
+        "population": 4270563,
+        "interestingFact": "Kuwait has one of the highest per capita incomes in the world.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 89,
+        "countryName": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "population": 6524195,
+        "interestingFact": "Kyrgyzstan is known for its stunning mountainous terrain.",
+        "nativeLanguage": "Kyrgyz, Russian"
+    },
+    {
+        "id": 90,
+        "countryName": "Laos",
+        "capital": "Vientiane",
+        "population": 7275560,
+        "interestingFact": "Laos is known for its mountainous terrain and rich cultural heritage.",
+        "nativeLanguage": "Lao"
+    },
+    {
+        "id": 91,
+        "countryName": "Latvia",
+        "capital": "Riga",
+        "population": 1886198,
+        "interestingFact": "Latvia is known for its beautiful Art Nouveau architecture.",
+        "nativeLanguage": "Latvian"
+    },
+    {
+        "id": 92,
+        "countryName": "Lebanon",
+        "capital": "Beirut",
+        "population": 6825445,
+        "interestingFact": "Lebanon is known for its rich history and cuisine.",
+        "nativeLanguage": "Arabic, French"
+    },
+    {
+        "id": 93,
+        "countryName": "Lesotho",
+        "capital": "Maseru",
+        "population": 2142249,
+        "interestingFact": "Lesotho is the only country in the world entirely above 1,000 meters in elevation.",
+        "nativeLanguage": "Sesotho, English"
+    },
+    {
+        "id": 94,
+        "countryName": "Liberia",
+        "capital": "Monrovia",
+        "population": 5057681,
+        "interestingFact": "Liberia was founded by freed American slaves.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 95,
+        "countryName": "Libya",
+        "capital": "Tripoli",
+        "population": 6871292,
+        "interestingFact": "Libya is known for its vast deserts and ancient ruins.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 96,
+        "countryName": "Liechtenstein",
+        "capital": "Vaduz",
+        "population": 38128,
+        "interestingFact": "Liechtenstein is one of the smallest countries in Europe.",
+        "nativeLanguage": "German"
+    },
+    {
+        "id": 97,
+        "countryName": "Lithuania",
+        "capital": "Vilnius",
+        "population": 2722289,
+        "interestingFact": "Lithuania was the first country to declare independence from the Soviet Union.",
+        "nativeLanguage": "Lithuanian"
+    },
+    {
+        "id": 98,
+        "countryName": "Luxembourg",
+        "capital": "Luxembourg City",
+        "population": 634814,
+        "interestingFact": "Luxembourg is known for its high standard of living.",
+        "nativeLanguage": "Luxembourgish, French, German"
+    },
+    {
+        "id": 99,
+        "countryName": "Madagascar",
+        "capital": "Antananarivo",
+        "population": 27691018,
+        "interestingFact": "Madagascar is home to unique wildlife found nowhere else on Earth.",
+        "nativeLanguage": "Malagasy, French"
+    },
+    {
+        "id": 100,
+        "countryName": "Malawi",
+        "capital": "Lilongwe",
+        "population": 19129952,
+        "interestingFact": "Malawi is known for its beautiful lake, Lake Malawi.",
+        "nativeLanguage": "Chichewa, English"
+    },
+    {
+        "id": 101,
+        "countryName": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "population": 32776760,
+        "interestingFact": "Malaysia is known for its diverse culture and rainforests.",
+        "nativeLanguage": "Malay"
+    },
+    {
+        "id": 102,
+        "countryName": "Maldives",
+        "capital": "Malé",
+        "population": 540542,
+        "interestingFact": "The Maldives is known for its stunning coral reefs and clear blue waters.",
+        "nativeLanguage": "Dhivehi"
+    },
+    {
+        "id": 103,
+        "countryName": "Mali",
+        "capital": "Bamako",
+        "population": 20250833,
+        "interestingFact": "Mali is home to the historic city of Timbuktu.",
+        "nativeLanguage": "Bambara, French"
+    },
+    {
+        "id": 104,
+        "countryName": "Malta",
+        "capital": "Valletta",
+        "population": 514999,
+        "interestingFact": "Malta is known for its historic sites and Mediterranean culture.",
+        "nativeLanguage": "Maltese, English"
+    },
+    {
+        "id": 105,
+        "countryName": "Marshall Islands",
+        "capital": "Majuro",
+        "population": 59194,
+        "interestingFact": "The Marshall Islands is known for its marine biodiversity.",
+        "nativeLanguage": "Marshallese, English"
+    },
+    {
+        "id": 106,
+        "countryName": "Mauritania",
+        "capital": "Nouakchott",
+        "population": 43231025,
+        "interestingFact": "Mauritania is largely desert, with a rich nomadic culture.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 107,
+        "countryName": "Mauritius",
+        "capital": "Port Louis",
+        "population": 1265741,
+        "interestingFact": "Mauritius is known for its stunning beaches and diverse culture.",
+        "nativeLanguage": "English, French"
+    },
+    {
+        "id": 108,
+        "countryName": "Mexico",
+        "capital": "Mexico City",
+        "population": 128932753,
+        "interestingFact": "Mexico is famous for its rich history and vibrant culture.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 109,
+        "countryName": "Micronesia",
+        "capital": "Palikir",
+        "population": 104468,
+        "interestingFact": "Micronesia consists of over 600 islands.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 110,
+        "countryName": "Moldova",
+        "capital": "Chișinău",
+        "population": 2657637,
+        "interestingFact": "Moldova is known for its wine production.",
+        "nativeLanguage": "Romanian"
+    },
+    {
+        "id": 111,
+        "countryName": "Monaco",
+        "capital": "Monaco",
+        "population": 39242,
+        "interestingFact": "Monaco is the second smallest country in the world.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 112,
+        "countryName": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "population": 3284916,
+        "interestingFact": "Mongolia is known for its vast steppes and nomadic culture.",
+        "nativeLanguage": "Mongolian"
+    },
+    {
+        "id": 113,
+        "countryName": "Montenegro",
+        "capital": "Podgorica",
+        "population": 622359,
+        "interestingFact": "Montenegro is known for its stunning Adriatic coastline.",
+        "nativeLanguage": "Montenegrin"
+    },
+    {
+        "id": 114,
+        "countryName": "Morocco",
+        "capital": "Rabat",
+        "population": 36910560,
+        "interestingFact": "Morocco is known for its rich culture and historical cities.",
+        "nativeLanguage": "Arabic, Amazigh"
+    },
+    {
+        "id": 115,
+        "countryName": "Mozambique",
+        "capital": "Maputo",
+        "population": 31255435,
+        "interestingFact": "Mozambique is known for its beautiful coastline and wildlife.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 116,
+        "countryName": "Myanmar",
+        "capital": "Naypyidaw",
+        "population": 54409794,
+        "interestingFact": "Myanmar is known for its rich cultural heritage and diverse ethnic groups.",
+        "nativeLanguage": "Burmese"
+    },
+    {
+        "id": 117,
+        "countryName": "Namibia",
+        "capital": "Windhoek",
+        "population": 2540905,
+        "interestingFact": "Namibia is home to the world's oldest desert, the Namib.",
+        "nativeLanguage": "English, Afrikaans, German"
+    },
+    {
+        "id": 118,
+        "countryName": "Nauru",
+        "capital": "Yaren",
+        "population": 10834,
+        "interestingFact": "Nauru is the third smallest country in the world.",
+        "nativeLanguage": "Nauruan, English"
+    },
+    {
+        "id": 119,
+        "countryName": "Nepal",
+        "capital": "Kathmandu",
+        "population": 29136808,
+        "interestingFact": "Nepal is home to Mount Everest, the highest peak in the world.",
+        "nativeLanguage": "Nepali"
+    },
+    {
+        "id": 120,
+        "countryName": "Netherlands",
+        "capital": "Amsterdam",
+        "population": 17134872,
+        "interestingFact": "The Netherlands is known for its windmills and tulips.",
+        "nativeLanguage": "Dutch"
+    },
+    {
+        "id": 121,
+        "countryName": "New Zealand",
+        "capital": "Wellington",
+        "population": 4822233,
+        "interestingFact": "New Zealand is known for its stunning landscapes and Maori culture.",
+        "nativeLanguage": "English, Maori"
+    },
+    {
+        "id": 122,
+        "countryName": "Nicaragua",
+        "capital": "Managua",
+        "population": 6624554,
+        "interestingFact": "Nicaragua is known for its volcanic landscapes and lakes.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 123,
+        "countryName": "Niger",
+        "capital": "Niamey",
+        "population": 24206644,
+        "interestingFact": "Niger is largely desert, with a rich cultural heritage.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 124,
+        "countryName": "Nigeria",
+        "capital": "Abuja",
+        "population": 206139589,
+        "interestingFact": "Nigeria is the most populous country in Africa.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 125,
+        "countryName": "North Korea",
+        "capital": "Pyongyang",
+        "population": 25778816,
+        "interestingFact": "North Korea is known for its strict government and unique culture.",
+        "nativeLanguage": "Korean"
+    },
+    {
+        "id": 126,
+        "countryName": "North Macedonia",
+        "capital": "Skopje",
+        "population": 2083459,
+        "interestingFact": "North Macedonia is known for its ancient history and cultural sites.",
+        "nativeLanguage": "Macedonian, Albanian"
+    },
+    {
+        "id": 127,
+        "countryName": "Norway",
+        "capital": "Oslo",
+        "population": 5421241,
+        "interestingFact": "Norway is known for its stunning fjords and high standard of living.",
+        "nativeLanguage": "Norwegian"
+    },
+    {
+        "id": 128,
+        "countryName": "Oman",
+        "capital": "Muscat",
+        "population": 5106626,
+        "interestingFact": "Oman is known for its rich history and stunning landscapes.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 129,
+        "countryName": "Pakistan",
+        "capital": "Islamabad",
+        "population": 225199937,
+        "interestingFact": "Pakistan is home to some of the world's highest mountains.",
+        "nativeLanguage": "Urdu, English"
+    },
+    {
+        "id": 130,
+        "countryName": "Palau",
+        "capital": "Ngerulmud",
+        "population": 18094,
+        "interestingFact": "Palau is known for its beautiful coral reefs.",
+        "nativeLanguage": "Palauan, English"
+    },
+    {
+        "id": 131,
+        "countryName": "Panama",
+        "capital": "Panama City",
+        "population": 4314768,
+        "interestingFact": "Panama is famous for the Panama Canal.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 132,
+        "countryName": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "population": 8940000,
+        "interestingFact": "Papua New Guinea has a rich diversity of languages and cultures.",
+        "nativeLanguage": "Tok Pisin, Hiri Motu, English"
+    },
+    {
+        "id": 133,
+        "countryName": "Paraguay",
+        "capital": "Asunción",
+        "population": 7132538,
+        "interestingFact": "Paraguay is known for its rich cultural heritage and biodiversity.",
+        "nativeLanguage": "Spanish, Guarani"
+    },
+    {
+        "id": 134,
+        "countryName": "Peru",
+        "capital": "Lima",
+        "population": 32971854,
+        "interestingFact": "Peru is home to the ancient Inca city of Machu Picchu.",
+        "nativeLanguage": "Spanish, Quechua"
+    },
+    {
+        "id": 135,
+        "countryName": "Philippines",
+        "capital": "Manila",
+        "population": 109581078,
+        "interestingFact": "The Philippines consists of over 7,000 islands.",
+        "nativeLanguage": "Filipino, English"
+    },
+    {
+        "id": 136,
+        "countryName": "Poland",
+        "capital": "Warsaw",
+        "population": 38386000,
+        "interestingFact": "Poland is known for its rich history and vibrant culture.",
+        "nativeLanguage": "Polish"
+    },
+    {
+        "id": 137,
+        "countryName": "Portugal",
+        "capital": "Lisbon",
+        "population": 10196709,
+        "interestingFact": "Portugal is famous for its wine and historical sites.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 138,
+        "countryName": "Qatar",
+        "capital": "Doha",
+        "population": 2881060,
+        "interestingFact": "Qatar is known for its wealth and modern architecture.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 139,
+        "countryName": "Romania",
+        "capital": "Bucharest",
+        "population": 19237691,
+        "interestingFact": "Romania is known for its medieval castles and stunning landscapes.",
+        "nativeLanguage": "Romanian"
+    },
+    {
+        "id": 140,
+        "countryName": "Russia",
+        "capital": "Moscow",
+        "population": 145912025,
+        "interestingFact": "Russia is the largest country in the world by land area.",
+        "nativeLanguage": "Russian"
+    },
+    {
+        "id": 141,
+        "countryName": "Rwanda",
+        "capital": "Kigali",
+        "population": 12952218,
+        "interestingFact": "Rwanda is known for its efforts in conservation and reforestation.",
+        "nativeLanguage": "Kinyarwanda, French, English"
+    },
+    {
+        "id": 142,
+        "countryName": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "population": 53192,
+        "interestingFact": "Saint Kitts and Nevis is the smallest country in the Western Hemisphere.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 143,
+        "countryName": "Saint Lucia",
+        "capital": "Castries",
+        "population": 183629,
+        "interestingFact": "Saint Lucia is known for its beautiful landscapes and festivals.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 144,
+        "countryName": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "population": 110589,
+        "interestingFact": "Saint Vincent and the Grenadines is known for its stunning beaches.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 145,
+        "countryName": "Samoa",
+        "capital": "Apia",
+        "population": 198410,
+        "interestingFact": "Samoa is known for its beautiful landscapes and culture.",
+        "nativeLanguage": "Samoan, English"
+    },
+    {
+        "id": 146,
+        "countryName": "San Marino",
+        "capital": "San Marino",
+        "population": 33931,
+        "interestingFact": "San Marino is one of the world's oldest republics.",
+        "nativeLanguage": "Italian"
+    },
+    {
+        "id": 147,
+        "countryName": "Sao Tome and Principe",
+        "capital": "São Tomé",
+        "population": 219159,
+        "interestingFact": "São Tomé and Príncipe is known for its lush rainforests.",
+        "nativeLanguage": "Portuguese"
+    },
+    {
+        "id": 148,
+        "countryName": "Saudi Arabia",
+        "capital": "Riyadh",
+        "population": 34813867,
+        "interestingFact": "Saudi Arabia is known for its vast deserts and oil reserves.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 149,
+        "countryName": "Senegal",
+        "capital": "Dakar",
+        "population": 16425864,
+        "interestingFact": "Senegal is known for its vibrant music and culture.",
+        "nativeLanguage": "French"
+    },
+    {
+        "id": 150,
+        "countryName": "Serbia",
+        "capital": "Belgrade",
+        "population": 8772235,
+        "interestingFact": "Serbia is known for its historical cities and cultural heritage.",
+        "nativeLanguage": "Serbian"
+    },
+    {
+        "id": 151,
+        "countryName": "Seychelles",
+        "capital": "Victoria",
+        "population": 98347,
+        "interestingFact": "Seychelles is known for its beautiful beaches and biodiversity.",
+        "nativeLanguage": "Seychellois Creole, English, French"
+    },
+    {
+        "id": 152,
+        "countryName": "Sierra Leone",
+        "capital": "Freetown",
+        "population": 7976985,
+        "interestingFact": "Sierra Leone is known for its stunning coastline and diverse wildlife.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 153,
+        "countryName": "Singapore",
+        "capital": "Singapore",
+        "population": 5850342,
+        "interestingFact": "Singapore is known for its cleanliness and strict laws.",
+        "nativeLanguage": "English, Malay, Mandarin, Tamil"
+    },
+    {
+        "id": 154,
+        "countryName": "Slovakia",
+        "capital": "Bratislava",
+        "population": 5456362,
+        "interestingFact": "Slovakia is known for its beautiful castles and mountainous terrain.",
+        "nativeLanguage": "Slovak"
+    },
+    {
+        "id": 155,
+        "countryName": "Slovenia",
+        "capital": "Ljubljana",
+        "population": 2078654,
+        "interestingFact": "Slovenia is known for its beautiful lakes and outdoor activities.",
+        "nativeLanguage": "Slovene"
+    },
+    {
+        "id": 156,
+        "countryName": "Solomon Islands",
+        "capital": "Honiara",
+        "population": 686884,
+        "interestingFact": "The Solomon Islands are known for their coral reefs and WWII history.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 157,
+        "countryName": "Somalia",
+        "capital": "Mogadishu",
+        "population": 15893222,
+        "interestingFact": "Somalia has one of the longest coastlines in Africa.",
+        "nativeLanguage": "Somali, Arabic"
+    },
+    {
+        "id": 193,
+        "countryName": "Zimbabwe",
+        "capital": "Harare",
+        "population": 14862924,
+        "interestingFact": "Zimbabwe is known for its diverse landscapes and wildlife.",
+        "nativeLanguage": "English, Shona, Sindebele"
+    },
+    {
+        "id": 159,
+        "countryName": "South Korea",
+        "capital": "Seoul",
+        "population": 51780579,
+        "interestingFact": "South Korea is known for its technology and K-pop culture.",
+        "nativeLanguage": "Korean"
+    },
+    {
+        "id": 160,
+        "countryName": "South Sudan",
+        "capital": "Juba",
+        "population": 10925048,
+        "interestingFact": "South Sudan is the youngest country in the world, gaining independence in 2011.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 161,
+        "countryName": "Spain",
+        "capital": "Madrid",
+        "population": 46754778,
+        "interestingFact": "Spain is known for its rich history, art, and cuisine.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 162,
+        "countryName": "Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte",
+        "population": 21803000,
+        "interestingFact": "Sri Lanka is known for its tea and stunning landscapes.",
+        "nativeLanguage": "Sinhala, Tamil"
+    },
+    {
+        "id": 163,
+        "countryName": "Sudan",
+        "capital": "Khartoum",
+        "population": 43849260,
+        "interestingFact": "Sudan has a rich history, including ancient pyramids.",
+        "nativeLanguage": "Arabic, English"
+    },
+    {
+        "id": 164,
+        "countryName": "Suriname",
+        "capital": "Paramaribo",
+        "population": 586634,
+        "interestingFact": "Suriname is known for its tropical rainforests.",
+        "nativeLanguage": "Dutch"
+    },
+    {
+        "id": 165,
+        "countryName": "Sweden",
+        "capital": "Stockholm",
+        "population": 10230000,
+        "interestingFact": "Sweden is known for its high standard of living and innovation.",
+        "nativeLanguage": "Swedish"
+    },
+    {
+        "id": 166,
+        "countryName": "Switzerland",
+        "capital": "Bern",
+        "population": 8654622,
+        "interestingFact": "Switzerland is famous for its neutrality and stunning Alps.",
+        "nativeLanguage": "German, French, Italian, Romansh"
+    },
+    {
+        "id": 167,
+        "countryName": "Syria",
+        "capital": "Damascus",
+        "population": 17500657,
+        "interestingFact": "Syria has a rich history, including ancient ruins.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 168,
+        "countryName": "Taiwan",
+        "capital": "Taipei",
+        "population": 23816775,
+        "interestingFact": "Taiwan is known for its vibrant culture and technology.",
+        "nativeLanguage": "Mandarin"
+    },
+    {
+        "id": 169,
+        "countryName": "Tajikistan",
+        "capital": "Dushanbe",
+        "population": 9537645,
+        "interestingFact": "Tajikistan is known for its mountainous terrain.",
+        "nativeLanguage": "Tajik"
+    },
+    {
+        "id": 170,
+        "countryName": "Tanzania",
+        "capital": "Dodoma",
+        "population": 59734218,
+        "interestingFact": "Tanzania is home to Mount Kilimanjaro and Serengeti National Park.",
+        "nativeLanguage": "Swahili, English"
+    },
+    {
+        "id": 171,
+        "countryName": "Thailand",
+        "capital": "Bangkok",
+        "population": 69799978,
+        "interestingFact": "Thailand is known for its beautiful beaches and rich culture.",
+        "nativeLanguage": "Thai"
+    },
+    {
+        "id": 172,
+        "countryName": "Timor-Leste",
+        "capital": "Dili",
+        "population": 1318445,
+        "interestingFact": "Timor-Leste is known for its stunning beaches and cultural diversity.",
+        "nativeLanguage": "Tetum, Portuguese"
+    },
+    {
+        "id": 173,
+        "countryName": "Togo",
+        "capital": "Lomé",
+        "population": 8278724,
+        "interestingFact": "Togo is known for its diverse culture and traditions.",
+        "nativeLanguage": "French, Ewe, Kabye"
+    },
+    {
+        "id": 174,
+        "countryName": "Tonga",
+        "capital": "Nukuʻalofa",
+        "population": 106440,
+        "interestingFact": "Tonga is known for its Polynesian culture and beautiful islands.",
+        "nativeLanguage": "Tongan, English"
+    },
+    {
+        "id": 175,
+        "countryName": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "population": 1399488,
+        "interestingFact": "Trinidad and Tobago is known for its Carnival and vibrant culture.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 176,
+        "countryName": "Tunisia",
+        "capital": "Tunis",
+        "population": 11818619,
+        "interestingFact": "Tunisia is known for its rich history and ancient ruins.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 177,
+        "countryName": "Turkey",
+        "capital": "Ankara",
+        "population": 84339067,
+        "interestingFact": "Turkey is known for its rich history and cultural diversity.",
+        "nativeLanguage": "Turkish"
+    },
+    {
+        "id": 178,
+        "countryName": "Turkmenistan",
+        "capital": "Ashgabat",
+        "population": 6031200,
+        "interestingFact": "Turkmenistan is known for its vast deserts and unique culture.",
+        "nativeLanguage": "Turkmen"
+    },
+    {
+        "id": 179,
+        "countryName": "Tuvalu",
+        "capital": "Funafuti",
+        "population": 11700,
+        "interestingFact": "Tuvalu is one of the smallest and least visited countries in the world.",
+        "nativeLanguage": "Tuvaluan, English"
+    },
+    {
+        "id": 180,
+        "countryName": "Uganda",
+        "capital": "Kampala",
+        "population": 45741007,
+        "interestingFact": "Uganda is known for its diverse wildlife and beautiful landscapes.",
+        "nativeLanguage": "English, Swahili"
+    },
+    {
+        "id": 181,
+        "countryName": "Ukraine",
+        "capital": "Kyiv",
+        "population": 44134693,
+        "interestingFact": "Ukraine is known for its rich history and culture.",
+        "nativeLanguage": "Ukrainian"
+    },
+    {
+        "id": 182,
+        "countryName": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "population": 9890400,
+        "interestingFact": "The UAE is known for its modern architecture and luxury shopping.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 183,
+        "countryName": "United Kingdom",
+        "capital": "London",
+        "population": 67886004,
+        "interestingFact": "The UK is known for its rich history and cultural influence.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 184,
+        "countryName": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "interestingFact": "The U.S. is known for its cultural diversity and innovation.",
+        "nativeLanguage": "English"
+    },
+    {
+        "id": 185,
+        "countryName": "Uruguay",
+        "capital": "Montevideo",
+        "population": 3486558,
+        "interestingFact": "Uruguay is known for its beaches and progressive social policies.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 186,
+        "countryName": "Uzbekistan",
+        "capital": "Tashkent",
+        "population": 33469199,
+        "interestingFact": "Uzbekistan is known for its historic Silk Road cities.",
+        "nativeLanguage": "Uzbek"
+    },
+    {
+        "id": 187,
+        "countryName": "Vanuatu",
+        "capital": "Port Vila",
+        "population": 307145,
+        "interestingFact": "Vanuatu is known for its volcanic landscapes and rich culture.",
+        "nativeLanguage": "Bislama, English, French"
+    },
+    {
+        "id": 188,
+        "countryName": "Vatican City",
+        "capital": "Vatican City",
+        "population": 800,
+        "interestingFact": "Vatican City is the smallest independent state in the world.",
+        "nativeLanguage": "Italian"
+    },
+    {
+        "id": 189,
+        "countryName": "Venezuela",
+        "capital": "Caracas",
+        "population": 28435943,
+        "interestingFact": "Venezuela is known for its natural beauty and oil reserves.",
+        "nativeLanguage": "Spanish"
+    },
+    {
+        "id": 190,
+        "countryName": "Vietnam",
+        "capital": "Hanoi",
+        "population": 97338579,
+        "interestingFact": "Vietnam is known for its rich history and delicious cuisine.",
+        "nativeLanguage": "Vietnamese"
+    },
+    {
+        "id": 191,
+        "countryName": "Yemen",
+        "capital": "Sana'a",
+        "population": 29825968,
+        "interestingFact": "Yemen is known for its ancient architecture and rich culture.",
+        "nativeLanguage": "Arabic"
+    },
+    {
+        "id": 192,
+        "countryName": "Zambia",
+        "capital": "Lusaka",
+        "population": 18383955,
+        "interestingFact": "Zambia is known for its wildlife and Victoria Falls.",
+        "nativeLanguage": "English"
+    },
+    {
+       "id": 158,
+        "countryName": "South Africa",
+        "capital": "Pretoria (adm), Bloemfontein (jud), Cape Town (lgt)",
+        "population": 59308690,
+        "interestingFact": "South Africa is known for its diverse culture and wildlife.",
+        "nativeLanguage": "11 official languages including Afrikaans, English, isiZulu, isiXhosa" 
+    }
+]

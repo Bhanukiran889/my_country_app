@@ -1,0 +1,500 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color: #202020;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "urbanist";
+}
+
+body {
+  background-color: black;
+}
+a:hover{
+  text-decoration: none;
+
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #fff;
+}
+
+p,
+button {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.6;
+  color: #fff;
+}
+
+li {
+  list-style: none;
+  color: #ffff;
+  letter-spacing: 0.1rem;
+  font-size: calc(0.77rem + 1vw);
+}
+
+.li:hover {
+  color: #52dba2;
+}
+
+a {
+  color: #000;
+
+  &:hover {
+    color: #2e86c1;
+  }
+}
+
+button {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  padding: 0.6rem 2.4rem;
+  text-align: center;
+  outline: none;
+  border: none;
+  /* text-transform: unset; */
+  transition: all 0.3s ease-in-out;
+  background: #202020;
+  color: #fff;
+  border-radius: 1.5rem;
+  /*thisdoesn'twork*/
+  border-width: 0.1rem;
+  border-style: solid;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius: 1.5rem;
+  -ms-border-radius: 1.5rem;
+  -o-border-radius: 1.5rem;
+}
+
+.header {
+  background-color: #202020;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.App-name {
+  color: #52dba2;
+}
+
+
+
+
+
+
+/* Explore section */
+
+
+.exprore-heading {
+  font-size: calc(1.8em + 1vw) !important;
+  color: #52dba2;
+  font-weight: 600;
+  padding-top: 1rem;
+}
+
+.paragraph {
+  font-size: calc(0.85em + 1vw);
+}
+
+.btn-white-box {
+  background-color: #202020;
+  color: #fff;
+  border-color: #52dba2;
+  border-width: 0.1rem;
+  border-style: solid;
+  font-size: 1.2rem;
+  border-radius: 1.5rem;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius: 1.5rem;
+  -ms-border-radius: 1.5rem;
+  -o-border-radius: 1.5rem;
+
+}
+
+.text {
+  text-align: center;
+}
+
+@media (min-width: 575px) {
+  .text {
+    text-align: left;
+  }
+
+  .main {
+    margin-top: 5rem;
+
+  }
+}
+
+
+
+/* Abouut */
+
+.cards {
+  border: 1px solid transparent;
+  border-radius: 20px;
+  padding: 3rem;
+  margin: 10px;
+  background: linear-gradient(71deg, #080509, #272727, #080509);
+  transition: transform 0.3s;
+  min-height: 250px;
+}
+
+.about-heading {
+
+  color: #66be99;
+}
+
+.cards:hover {
+  transform: scale(1.03);
+  color: #e7e7e7 !important;
+
+}
+
+.description {
+  text-align: left;
+}
+
+
+.description p {
+  margin: 5px 0;
+  font-size: 1.2rem;
+}
+
+.description span {
+  font-weight: bold;
+
+  color: #42eba5;
+}
+
+.country-name {
+  color: #ffffff !important;
+  line-height: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.bg-green-box,
+.bg-white-box,
+.bg-yellow-box,
+.bg-blue-box {
+  position: relative;
+}
+
+.bg-green-box::after,
+.bg-white-box::after,
+.bg-yellow-box::after,
+.bg-blue-box::after {
+  position: absolute;
+  top: -1.5px;
+  bottom: -1.5px;
+  left: -2px;
+  right: -2px;
+  content: "";
+  z-index: -1;
+  border-radius: 20px;
+}
+
+.bg-green-box::after {
+  background: linear-gradient(71deg, #0d1212, #3da077, #0d1212);
+}
+
+.bg-white-box::after {
+  background: linear-gradient(71deg, #121013, #b0afb0, #121013);
+}
+
+.bg-yellow-box::after {
+  background: linear-gradient(71deg, #110e0e, #afa220, #110e0e);
+}
+
+.bg-blue-box::after {
+  background: linear-gradient(71deg, #0c0a0e, #5f6fad, #0c0a0e);
+}
+
+
+.icon {
+  font-size: calc(2.5rem + 1vw);
+  color: #52dba2;
+  margin: 0.5rem;
+}
+
+.footer-title {
+  font-size: 1.3rem;
+  color: #52dba2;
+  margin: 0;
+}
+
+.footer-details {
+  font-size: 1rem;
+  color: #fff;
+  margin: 0;
+}
+
+/* Country page */
+
+.Country-btn {
+  padding: 5px 15px;
+  background-color: #202020;
+  color: #fff;
+  border-color: #52dba2;
+  border-width: 0.1rem;
+  border-style: solid;
+  font-size: 0.9rem;
+  border-radius: 1.5rem;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius: 1.5rem;
+  -ms-border-radius: 1.5rem;
+  -o-border-radius: 1.5rem;
+
+}
+
+.country {
+  margin: 8rem 0;
+}
+
+
+.img-box {
+  padding: 10px 0;
+  width: 100%;
+  height: 100%;
+}
+
+.country-img {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+}
+
+@media (max-width: 575.33px) {
+  .country-img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/* input */
+
+.input {
+  background-color: #202020;
+  color: #fff;
+  padding: 5px 0 5px 10px;
+  border-color: #52dba2;
+  border-width: 0.1rem;
+  border-style: solid;
+  font-size: 1.2rem;
+  border-radius: 1.5rem;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius: 1.5rem;
+  -ms-border-radius: 1.5rem;
+  -o-border-radius: 1.5rem;
+}
+
+
+.select-section {
+  background-color: #202020;
+  color: #fff;
+  padding: 5px 10px 5px 5px;
+  border-color: #52dba2;
+  border-width: 0.1rem;
+  border-style: solid;
+  font-size: 1.2rem;
+  border-radius: 1.5rem;
+  -webkit-border-radius: 1.5rem;
+  -moz-border-radius: 1.5rem;
+  -ms-border-radius: 1.5rem;
+  -o-border-radius: 1.5rem;
+}
+
+.select-section:focus {
+  background-color: #52dba2;
+  color: #000;
+}
+
+.select-section option:hover {
+  background-color: #52dba2
+}
+
+
+/* Error page
+ */
+.error{
+  height: 100vh;
+}
+
+.loader {
+  width: 50px;
+  padding: 8px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: #25b09b;
+  --_m: conic-gradient(#0000 10%, #000), linear-gradient(#000 0 0) content-box;
+  -webkit-mask: var(--_m);
+  mask: var(--_m);
+  -webkit-mask-composite: source-out;
+  mask-composite: subtract;
+  animation: l3 0.4s infinite linear;
+}
+
+@keyframes l3 {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+.loader-section {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+}
+
+
+
+
+.country-detail-height{
+height: 94vh !important;
+}
+
+@media (min-width: 1080px) {
+  .card-height{
+    height: 1000px;
+  }
+  .margin-card{
+    margin: 200px 0;
+  }
+}
+/* Updated root font-size for better scaling */
+html {
+  font-size: clamp(10px, 1.5vw, 16px);
+  font-family: "urbanist", sans-serif;
+}
+
+/* Responsive Typography Enhancements */
+h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+h2 {
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+}
+
+h3 {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+}
+
+h4 {
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+}
+
+h5 {
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
+}
+
+p,
+button {
+  font-size: clamp(1rem, 1.5vw, 1.4rem);
+}
+
+/* Explore section heading */
+.exprore-heading {
+  font-size: clamp(2rem, 4vw, 3rem) !important;
+}
+
+/* Paragraph text scaling */
+.paragraph {
+  font-size: clamp(1rem, 2.5vw, 1.6rem);
+}
+
+/* List item responsive font */
+li {
+  font-size: clamp(1rem, 1.5vw, 1.4rem);
+}
+
+/* Footer */
+.footer-title,
+.footer-details {
+  font-size: clamp(1rem, 1.3vw, 1.2rem);
+}
+
+/* Country name */
+.country-name {
+  font-size: clamp(1.2rem, 1.8vw, 1.5rem);
+}
+
+/* Loader scaling */
+.loader {
+  width: clamp(30px, 5vw, 50px);
+}
+
+/* Media Queries to refine layout/typography further */
+@media (max-width: 575.98px) {
+  .text {
+    text-align: center;
+  }
+
+  .main {
+    margin-top: 3rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .paragraph {
+    font-size: 1.4rem;
+  }
+
+  .country {
+    margin: 6rem 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .paragraph {
+    font-size: 1.5rem;
+  }
+
+  .text {
+    text-align: left;
+  }
+}
+
+@media (min-width: 1200px) {
+  html {
+    font-size: 60%;
+  }
+
+  .exprore-heading {
+    font-size: 2.8rem !important;
+  }
+
+  .paragraph {
+    font-size: 1.4rem;
+  }
+}
+
+@media (min-width: 1400px) {
+  html {
+    font-size: 58%;
+  }
+}
